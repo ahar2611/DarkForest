@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "DarkForest",
         "author": "Lanney",
-        "updater": ""
+        "updater": "https://raw.githubusercontent.com/ahar2611/DarkForest/main/DarkForest.json"
     },
     "background": {
         "url": "https://media.discordapp.net/attachments/803090285470154755/913304981426274364/dbe3ika-6a75efcc-8a30-4613-b5f2-52538aaeb0d2.jpg",
