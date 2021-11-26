@@ -3,10 +3,10 @@
         "version": "1.0.0",
         "name": "DarkForest",
         "author": "Lanney",
-        "updater": "https://raw.githubusercontent.com/ahar2611/DarkForest/main/DarkForest.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/DarkForest\/main\/DarkForest.json"
     },
     "background": {
-        "url": "https://media.discordapp.net/attachments/803090285470154755/913304981426274364/dbe3ika-6a75efcc-8a30-4613-b5f2-52538aaeb0d2.jpg",
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913304981426274364\/dbe3ika-6a75efcc-8a30-4613-b5f2-52538aaeb0d2.jpg",
         "blur_radius": 3
     },
     "fonts": {
@@ -18,14 +18,14 @@
         "input_background": 1040187393,
         "accent": -2260368,
         "mention_highlight": 652051056,
-        "active_channel": 2115838785
+        "active_channel": 1463886877
     },
     "colors": {
         "link": -10191147,
         "primary_dark_300": -5028782,
         "primary_dark_200": -3032900,
         "primary_dark_400": -7827310,
-        "primary_dark_800": 385875968,
+        "primary_dark_800": 1275068416,
         "uikit_btn_bg_color_selector_red": -5028782,
         "uikit_settings_item_text_color_dark": -3032900
     },
